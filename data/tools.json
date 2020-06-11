@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Minesweeper",
+        "version": "2.4",
+        "desc": "Who doesn't know Minesweeper?",
+        "links": {
+            "(.jar)": "dl/Minesweeper.jar",
+            "(.exe)": "dl/Minesweeper.exe"
+        },
+        "hideLinks": true,
+        "linkAttributes": {
+            "download": true,
+            "target": "_blank"
+        }
+    },
+    {
+        "title": "SteamGiveaway Auto-Enter",
+        "version": "1.0.4",
+        "desc": "Requires Greasemonkey / Tampermonkey / Violentmonkey. Automatically joins all opened SteamGiveaway giveaways (and closes their tabs after joining)",
+        "links": {
+            "(.user.js)": "dl/steam_giveaway_joiner.user.js"
+        },
+        "hideLinks": true
+    },
+    {
+        "title": "xRel IMDB-Ratings",
+        "version": "1.4",
+        "desc": "<b>Currently Outdated!</b> Requires Greasemonkey / Tampermonkey / Violentmonkey. Tries to fetch and display IMDB ratings for movies on xrel.to.",
+        "links": {
+            "(.user.js)": "dl/xRel_IMDB.user.js"
+        },
+        "hideLinks": true
+    },
+    {
+        "title": "Youtube Spacebar Interaction",
+        "version": "1.6",
+        "desc": "Requires Greasemonkey / Tampermonkey / Violentmonkey. Spacebar now always pauses/resumes the player or restarts the video no matter if the player has focus. Doesn't work if a textbox is active. Was only tested against the HTML5-player!",
+        "links": {
+            "(.user.js)": "dl/yt_spacebar.user.js"
+        },
+        "hideLinks": true
+    }
+]
